@@ -3,6 +3,8 @@ Repo showing problem with [Parcel bundler](https://parceljs.org/) and [dynamic i
 
 Parcel-bundler 1.12.4
 Typescript 3.7.2
+Node 12.11.1
+NPM 6.13.0
 Chrome 77.0.3865.120
 Ubuntu 18.04.3 LTS
 
